@@ -16,6 +16,7 @@ public class WhenToUseSets {
         numbers.add(50);
         numbers.add(50);
         numbers.add(50);
+
         numbers.add(50);
         System.out.println(numbers);
 

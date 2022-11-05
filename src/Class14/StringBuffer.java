@@ -1,6 +1,6 @@
 package Class14;
 
-import com.sun.deploy.net.MessageHeader;
+
 
 public class StringBuffer {
     public StringBuffer(String today_is_java_class) {
@@ -17,7 +17,7 @@ public class StringBuffer {
     If we want to convert the String to a StringBuilder we can use the below
     syntax
      /
-    StringBuilder stringBuilder1=new StringBuilder(str);
+    StringBuilder stringBuilder1=new StringBuilder(sttr);
         System.out.println("stringBuilder1 = " + stringBuilder1);
         /
         IF we want to convert from a StringBuilder to A String we can use
